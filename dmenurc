@@ -1,0 +1,9 @@
+#!/bin/sh
+
+font="DejaVuSansLight:pixelsize=24"
+normbg="#222222"
+normfg="#bbbbbb"
+selbg="#005577"
+selfg="#222222"
+
+echo -fn "$font" -nb "$normbg" -nf "$normfg" -sb "$selbg" -sf "$selfg" -b
